@@ -1,4 +1,4 @@
-import React, { Profiler } from 'react';
+import React from 'react';
 
 import { Container, Profile, Avatar, UserDate, Icons, MicIcon, HeadphoneIcon, SettingsIcon } from './styles';
 
